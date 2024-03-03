@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@demoapp.com",
+      "password": "demoapp123",
+      "name":"",
+      "profilePic":""
+    },
+    {
+      "id": "6c4e",
+      "empId": "EMP100",
+      "name": "Max Miller",
+      "email": "maxmiller@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "42b0",
+      "email": "nandanarajagopal33@gmail.com",
+      "empId": "EMp101",
+      "name": "NANDANA",
+      "status": "0"
+    },
+    {
+      "id": "14df",
+      "empId": "EMp102",
+      "name": "NANDANA",
+      "email": "nandanarajagopal33@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "0f2a",
+      "empId": "EMP102",
+      "name": "Anasteel",
+      "email": "anasteel@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "bcf2",
+      "empId": "EMP103",
+      "name": "Maxwayne",
+      "email": "maxwayne@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "7f74",
+      "empId": "EMP104",
+      "name": "LeanneGraham",
+      "email": "leanegraham@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "4df2",
+      "empId": "EMP105",
+      "name": "Ann",
+      "email": "ann@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "d951",
+      "empId": "EMP106",
+      "name": "Nithya",
+      "email": "nithya@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "27c0",
+      "empId": "EMP107",
+      "name": "Kartik",
+      "email": "kartik@gmail.com",
+      "status": "1"
+    }
+  ]
+}
